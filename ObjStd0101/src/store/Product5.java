@@ -1,5 +1,5 @@
 package store;
 
 public class Product5 {
-	//ローカルリポジトリの変更内容
+	//ローカルの変更内容
 }
